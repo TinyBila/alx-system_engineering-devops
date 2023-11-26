@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #It will display "To infinity and beyond" indefinitely,
-#with a "sleep 2" in between each iteration.
+#and with a "sleep 2" in between each iteration.
 
 while true
 do
